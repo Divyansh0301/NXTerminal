@@ -1,0 +1,2 @@
+# NXTerminal
+The main objective of this project is to create an advanced next generation easy-to-use voice activated terminal, that has conventional functionalities of a terminal and highly advanced functionalities too. We are planning to do these by integrating Core OS principles and programming with modern API Cloud tools and Cloud Computing for Speech Recognition for High Performance Fast Terminal
